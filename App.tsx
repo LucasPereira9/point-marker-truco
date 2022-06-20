@@ -36,7 +36,7 @@ function ToggleDarkMode() {
           colorMode === 'light' ? 'switch to dark mode' : 'switch to light mode'
         }
       />
-      <Text>Light</Text>
+      <Text>IRINEUUUU</Text>
     </HStack>
   );
 }
