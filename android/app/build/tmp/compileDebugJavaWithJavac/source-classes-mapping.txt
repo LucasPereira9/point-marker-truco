@@ -1,0 +1,14 @@
+com/trucopointer/BuildConfig.java
+ com.trucopointer.BuildConfig
+com/trucopointer/MainActivity.java
+ com.trucopointer.MainActivity
+com/trucopointer/ReactNativeFlipper.java
+ com.trucopointer.ReactNativeFlipper
+ com.trucopointer.ReactNativeFlipper$1
+ com.trucopointer.ReactNativeFlipper$2
+ com.trucopointer.ReactNativeFlipper$2$1
+com/trucopointer/MainApplication.java
+ com.trucopointer.MainApplication
+ com.trucopointer.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
